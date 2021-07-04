@@ -5,5 +5,5 @@ Local host site was made on HTML for testing.
 
 To run, simply download the repository and run app.py on http://localhost:5000
 
-## Acknowledgements:
-- [Guide](https://thecodex.me/)
+###### Acknowledgements:
+###### [Guide](https://thecodex.me/)
